@@ -1,0 +1,8 @@
+{
+    "img_shape": 240,
+    "batch_size": 32,
+    "from_logits": true,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.00001,
+    "num_epochs": 100
+}
